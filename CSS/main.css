@@ -1,0 +1,41 @@
+p{
+    color:red;
+  }
+  
+  .text-green{
+    color: green;
+    
+  }
+  #text-blue{
+    color: blue;
+  }
+  
+  :last-of-type{
+    color:black;
+  }
+  
+  p:nth-child(4){
+    color:olive;
+  }
+  
+  .color p{
+    color:DarkCyan;
+  }
+  
+  p[href^="#"]{
+    color:Moccasin;
+  }
+  
+  
+  p.SaddleBrown{
+    color:SaddleBrown;
+  }
+  
+  
+  #mother-element .Purple{
+    color:Purple;
+  }
+  .gold{
+    color:gold;
+  }
+  
